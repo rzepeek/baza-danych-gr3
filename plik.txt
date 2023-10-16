@@ -1,2 +1,4 @@
 Hello World! 
 To nowa lina z fix'a
+Hello,old firend
+Mod w branchu dev
